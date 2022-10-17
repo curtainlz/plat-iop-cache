@@ -1,2 +1,4 @@
-"# plat-iop-cache" 
-"# plat-iop-cache" 
+# plat-iop-cache
+
+## 缓存架构
+    采用 redis + CaffeineCache
